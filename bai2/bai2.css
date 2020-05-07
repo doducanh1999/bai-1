@@ -1,0 +1,27 @@
+.class_one{
+    color: red;
+    font-weight: bolder;
+}
+
+.class_two{
+    background: seashell;
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    border: 3px solid green;
+    margin: auto;
+}
+
+.class_zero{
+    background: cyan;
+}
+
+.class_three{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.class_four{
+    color: black;
+}
